@@ -1,10 +1,10 @@
-### Hi there 👋
-### 🤞 WELCOME TO MY GitHub PROFILE 🤞
+### 🤞 WELCOME TO MY GitHub 🤞
 
 # 💫 About Me:
 👨‍🎓 Sharif University of Technology
 📚 Electrical Engineering
-# 💫 Interests:
+
+# 👨‍💻 Interests:
 * Digital Signal Processing
 * AI
 
