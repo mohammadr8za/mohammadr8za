@@ -1,4 +1,4 @@
-### 🤞 WELCOME TO MY GitHub 🤞
+# 🤞 WELCOME TO MY GitHub 🤞
 
 # 💫 About Me:
 👨‍🎓 Sharif University of Technology
